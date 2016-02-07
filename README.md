@@ -77,7 +77,7 @@ tap-i18n uses [i18next v1.11](http://i18next.github.io/i18next/) as its internat
 ```json
 {
   "inbox_status": "Hey, %s! You have received one new message today.",
-  "inbox_status_plural": "Hey, %s! You have received %s new messages today."
+  "inbox_status_plural": "Hey, %s! You have received __count__ new messages today."
 }
 ```
 See more examples below.
